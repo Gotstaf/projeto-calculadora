@@ -1,1 +1,1 @@
-projeto-calculadora
+Caluladora desenvoldida em Javascript
